@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 
 <resources>
 
@@ -6,7 +7,15 @@
     <string name="toolbar_title">Ekran główny</string>
 
     <string name="main_text">
-        Aplikacja z paskiem Toolbar
+        To jest sekcja główna aplikacji.
+    </string>
+
+    <string name="settings_title">
+        Ustawienia
+    </string>
+
+    <string name="settings_text">
+        To jest sekcja ustawień aplikacji.
     </string>
 
     <string name="cleared_text">
@@ -46,6 +55,14 @@
         Aplikacja pokazuje działanie menu opcji, intencji jawnych,
         intencji niejawnych oraz nawigacji między ekranami.\n\n
         Wersja demonstracyjna wykonana na zajęcia z aplikacji mobilnych.
+    </string>
+
+    <string name="navigation_home">
+        Główna
+    </string>
+
+    <string name="navigation_settings">
+        Ustawienia
     </string>
 
 </resources>
