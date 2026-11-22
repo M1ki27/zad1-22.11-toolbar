@@ -1,5 +1,4 @@
 
-
 <resources>
 
     <string name="app_name">Toolbar Menu App</string>
@@ -10,16 +9,36 @@
         Aplikacja z paskiem Toolbar
     </string>
 
+    <string name="cleared_text">
+        Ekran został wyczyszczony
+    </string>
+
     <string name="action_share">
         Udostępnij
     </string>
 
     <string name="action_clear">
-        Wyczyść formularz
+        Wyczyść ekran
     </string>
 
     <string name="action_about">
         O aplikacji
+    </string>
+
+    <string name="share_title">
+        Udostępnij przez
+    </string>
+
+    <string name="share_text">
+        Korzystam z aplikacji Toolbar Menu App.
+    </string>
+
+    <string name="about_coming_soon">
+        Ekran O aplikacji dodamy w następnym kroku.
+    </string>
+
+    <string name="no_share_app">
+        Brak aplikacji obsługującej udostępnianie.
     </string>
 
 </resources>
