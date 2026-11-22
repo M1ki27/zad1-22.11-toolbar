@@ -33,12 +33,19 @@
         Korzystam z aplikacji Toolbar Menu App.
     </string>
 
-    <string name="about_coming_soon">
-        Ekran O aplikacji dodamy w następnym kroku.
-    </string>
-
     <string name="no_share_app">
         Brak aplikacji obsługującej udostępnianie.
+    </string>
+
+    <string name="about_title">
+        O aplikacji
+    </string>
+
+    <string name="about_text">
+        To jest przykładowa aplikacja z własnym paskiem Toolbar.\n\n
+        Aplikacja pokazuje działanie menu opcji, intencji jawnych,
+        intencji niejawnych oraz nawigacji między ekranami.\n\n
+        Wersja demonstracyjna wykonana na zajęcia z aplikacji mobilnych.
     </string>
 
 </resources>

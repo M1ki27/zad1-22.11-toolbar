@@ -51,14 +51,17 @@ public class MainActivity extends AppCompatActivity {
 
         if (id == R.id.action_share) {
             shareApplication();
+
             return true;
 
         } else if (id == R.id.action_clear) {
             clearScreen();
+
             return true;
 
         } else if (id == R.id.action_about) {
-            showAboutMessage();
+            openAbout();
+
             return true;
         }
 
@@ -98,11 +101,12 @@ public class MainActivity extends AppCompatActivity {
         );
     }
 
-    private void showAboutMessage() {
-        Toast.makeText(
+    private void openAbout() {
+        Intent intent = new Intent(
                 this,
-                R.string.about_coming_soon,
-                Toast.LENGTH_SHORT
-        ).show();
+                AboutActivity.class
+        );
+
+        startActivity(intent);
     }
 }
