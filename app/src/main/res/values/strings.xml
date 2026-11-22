@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Toolbar Menu App</string>
+    <string name="toolbar_title">Ekran główny</string>
+    <string name="main_text">Aplikacja z paskiem Toolbar</string>
+
+</resources>
